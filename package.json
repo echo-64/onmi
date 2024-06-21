@@ -1,0 +1,26 @@
+{
+  "name": "onmi",
+  "version": "1.0.0",
+  "description": "install node_modules without an internet connection",
+  "author": "𝖊𝖈𝖍𝖔",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "onmi": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/echo-64/onmi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/echo-64/onmi/issues"
+  },
+  "keywords": [
+    "offline",
+    "module",
+    "package",
+    "manager",
+    "install",
+    "node"
+  ]
+}

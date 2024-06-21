@@ -1,0 +1,7 @@
+1 index.js()
+  |
+<-2 options() <------
+|   |               |
+| 3-> parseArgs() 4 ^
+|   |
+-> 5 modules();
