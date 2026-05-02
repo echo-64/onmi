@@ -1,6 +1,6 @@
 {
   "name": "onmi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "install node_modules without an internet connection",
   "author": "𝖊𝖈𝖍𝖔",
   "license": "MIT",
